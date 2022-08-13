@@ -1,4 +1,4 @@
-## Heloo World 👋
+## Hello World 👋
 
 Comprehensive hands-on knowledge of software engineering. Professional teacher, coach and mentor. Author, [_Thus Spoke the Programmer_](https://leanpub.com/thus-spoke-the-programmer). 
 Trying to do challenging, meaningful work, contribute to the future of my profession and connect with others doing the same.
