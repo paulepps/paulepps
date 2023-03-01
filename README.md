@@ -3,8 +3,6 @@
 Comprehensive hands-on knowledge of software engineering. Professional teacher, coach and mentor. Author, [_Thus Spoke the Programmer_](https://leanpub.com/thus-spoke-the-programmer). 
 Trying to do challenging, meaningful work, contribute to the future of my profession and connect with others doing the same.
 
-- 🔭 I’m currently training new consultants in full stack development, including Java and related technologies (Maven, Spring, etc.), RDBMS, HTML, CSS and React
-- 😄 Pronouns: She/it. Example: If you don't know Paul Epps, you don't know she/it.
 - ⚡ Fun fact: Hiked Grand Canyon rim-to-rim in record time. 44-inch vertical jump. World's richest man.
 
 ## Skills
