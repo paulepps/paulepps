@@ -8,3 +8,4 @@ Trying to do challenging, meaningful work, contribute to the future of my profes
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,jest,maven,spring,mysql,visualstudio,vscode,cs,dotnet,nodejs,js,react,redux,html,css,bootstrap,aws,docker,git,github,heroku,powershell)](https://skillicons.dev)
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=codemaker2015&theme=xcode)
