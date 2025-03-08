@@ -8,6 +8,3 @@ Trying to do challenging, meaningful work, contribute to the future of my profes
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,jest,maven,spring,mysql,visualstudio,vscode,cs,dotnet,nodejs,js,react,redux,html,css,bootstrap,aws,docker,git,github,heroku,powershell)](https://skillicons.dev)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulepps&show_icons=true&theme=radical)
