@@ -10,4 +10,4 @@ Trying to do challenging, meaningful work, contribute to the future of my profes
 
 ## GitHub Stats
 
-<a href="http://www.github.com/paulepps"><img src="https://activity-graph.herokuapp.com/graph?username=paulepps&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=3382ed&area=true&hide_border=true&hide_title=true&radius=45" alt="Commits Graph" /></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulepps&show_icons=true&theme=radical)
